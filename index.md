@@ -1,4 +1,4 @@
-# Open Microfluidics Workstation
+# Open Microfluidics Station
 
 The Open Microfluidics Workstation is a free and open-source workstation for high-throughput droplet microfluidic biological assays. This compact workstation is based on connectable, open, modern, and low-cost components (Rasberry Pi, Arduino, 3D printing, onboard components, open or at least accessible design software and operation software - python).
 
