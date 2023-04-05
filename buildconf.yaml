@@ -26,15 +26,15 @@ Email: pgpadilla@uc.cl
 Navigation:
   - Link: index_BOM.html
     Title: Bill of Materials
-  - Link: /docs-git/pages/installation.html
+  - Link: /pages/installation.html
     Title: Installation
-  - Link: /docs-git/pages/assembly.html
+  - Link: /pages/assembly.html
     Title: Assembly
-  - Link: /docs-git/pages/operation.html
+  - Link: /pages/operation.html
     Title: Operation  
-  - Link: /docs-git/pages/troubleshooting.html
+  - Link: /pages/troubleshooting.html
     Title: Troubleshooting
-  - Link: /docs-git/pages/knowledge_base.html
+  - Link: /pages/knowledge_base.html
     Title: Knowledge base
 
 #Uncomment below to override the project title
