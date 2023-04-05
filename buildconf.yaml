@@ -9,7 +9,7 @@ Affiliation: Institute for Biological and Medical Engineering, Pontificia Univer
 
 License: CERN-OHL-1.2
 
-Email: librehub@uc.cl
+Email: pgpadilla@uc.cl
 
 #Uncomment below to add custom categories
 #CustomCategories:
@@ -26,15 +26,15 @@ Email: librehub@uc.cl
 Navigation:
   - Link: index_BOM.html
     Title: Bill of Materials
-  - Link: /docs-git/pages/installation.html
+  - Link: /docs-git/pages/installation.md
     Title: Installation
-  - Link: /docs-git/pages/assembly.html
+  - Link: /docs-git/pages/assembly.md
     Title: Assembly
-  - Link: /docs-git/pages/operation.html
+  - Link: /docs-git/pages/operation.md
     Title: Operation  
-  - Link: /docs-git/pages/troubleshooting.html
+  - Link: /docs-git/pages/troubleshooting.md
     Title: Troubleshooting
-  - Link: /docs-git/pages/knowledge_base.html
+  - Link: /docs-git/pages/knowledge_base.md
     Title: Knowledge base
 
 #Uncomment below to override the project title
