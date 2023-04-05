@@ -1,6 +1,9 @@
+#This is required if for build HTML unless index.md exists
+LandingPage: index.md
+
 # Recommended information
 Authors:
-    - LIBRE Hub Team
+    - Wenzel Lab
 
 Affiliation: Institute for Biological and Medical Engineering, Pontificia Universidad Católica de Chile
 
@@ -23,15 +26,15 @@ Email: librehub@uc.cl
 Navigation:
   - Link: index_BOM.html
     Title: Bill of Materials
-  - Link: /pages/installation.md
+  - Link: /pages/installation.html
     Title: Installation
-  - Link: /pages/assembly.md
+  - Link: /pages/assembly.html
     Title: Assembly
-  - Link: /pages/operation.md
+  - Link: /pages/operation.html
     Title: Operation  
-  - Link: /pages/troubleshooting.md
+  - Link: /pages/troubleshooting.html
     Title: Troubleshooting
-  - Link: /pages/knowledge_base.md
+  - Link: /pages/knowledge_base.html
     Title: Knowledge base
 
 #Uncomment below to override the project title
