@@ -12,8 +12,8 @@ Find more about the workstation on the [GitHub repository](https://github.com/we
 
 The [bill of materials]{BOM} can also be downloaded as an CSV.
 
-* [Installation](pages/installation.md){step} 
-* [Assembly](pages/assembly.md){step}
-* [Operation](pages/operation.md){step}
-* [Troubleshooting](pages/troubleshooting.md){step}
-* [Knowledge base](pages/knowledge_base.md){step}
+* [Installation](docs-git/pages/installation.md){step} 
+* [Assembly](docs-git/pages/assembly.md){step}
+* [Operation](docs-git/pages/operation.md){step}
+* [Troubleshooting](docs-git/pages/troubleshooting.md){step}
+* [Knowledge base](docs-git/pages/knowledge_base.md){step}
